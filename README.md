@@ -1,2 +1,2 @@
-# decision-tree
-A decision tree classifier I made on a sample data of 4000+ patients to detect breast cancer with an accuracy of over 90%.
+# Decision Tree Classifier for Breast Cancer Patients
+This project implements a decision tree classifier to help predict whether a breast cancer tumor is benign or malignant using the Breast Cancer Wisconsin (Diagnostic) Dataset. The dataset includes various diagnostic features such as the size, texture, and shape of the tumor. The goal of the classifier is to assist in early detection and diagnosis of breast cancer by providing a reliable prediction model based on these features. This project showcases the use of machine learning in healthcare, with a focus on interpretability and accuracy.
